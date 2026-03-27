@@ -1,0 +1,10 @@
+﻿"Basis_Breite"= 120
+"B@Skizze9"= "Basis_Breite"
+"D3@Skizze9" = "Basis_höhe"'Höhe
+"Basis_höhe" = 40
+"Basis_Dicke"= 5
+"D2@Skizze9"= "Basis_Dicke"
+"Loch"= 10.5
+"D2@Skizze10"= "Loch"
+"D1@Skizze10"= "Loch"
+"D3@Skizze10"= "Loch"
